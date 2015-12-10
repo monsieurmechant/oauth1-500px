@@ -126,6 +126,7 @@ class FiveHundredPxTest extends \PHPUnit_Framework_TestCase
                 'username'           => 'ImNotRafS',
                 'firstname'          => 'Rick',
                 'lastname'           => 'Owens',
+                'email'              => 'slickrick@rickowens.com',
                 'birthday'           => null,
                 'sex'                => null,
                 'city'               => 'Paris',
